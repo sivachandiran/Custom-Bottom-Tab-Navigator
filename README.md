@@ -22,10 +22,7 @@ yarn add @react-navigation/bottom-tabs
 
 # Usage
 
-```js
 
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-...
 
 
 
