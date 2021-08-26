@@ -1,16 +1,17 @@
 # Installation
 
-npm i @react-navigation/native
 
 using npm:
 
 ```
+npm i @react-navigation/native
 npm install @react-navigation/bottom-tabs
 ```
 
 using yarn:
 
 ```
+yarn add @react-navigation/native
 yarn add @react-navigation/bottom-tabs
 ```
 
